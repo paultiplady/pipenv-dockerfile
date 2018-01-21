@@ -1,0 +1,20 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "08e3181df84d04301c9d435357ec9cf43c4a491d79a1ada682cce8936c492f49"
+        },
+        "requires": {},
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "requests": "*"
+    },
+    "develop": {
+        "pytest": "*"
+    }
+}
